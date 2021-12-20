@@ -38,5 +38,5 @@ android {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    implementation 'com.github.rendisaepulb:rootbeer:master-0.1.0-g961c3e8-4'
+    implementation 'com.github.rendisaepulb:rootbeer:master-SNAPSHOT'
 }
